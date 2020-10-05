@@ -65,7 +65,7 @@ Our graph data are organized in a dictionary form where meaning of different key
 
 If you found this repo useful, please consider citing our paper:
 
-Li, Shucheng and Wu, Lingfei and Feng, Shiwei and Xu, Fangli and Xu, Fengyuan and Zhong, Sheng. **"Graph-to-Tree Neural Networks for Learning Structured Input-Output Translation with Applications to Semantic Parsing and Math Word Problem."** In *Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing.*
+Shucheng Li, Lingfei Wu, Shiwei Feng, Fangli Xu, Fengyuan Xu and Sheng Zhong, **"Graph-to-Tree Neural Networks for Learning Structured Input-Output Translation with Applications to Semantic Parsing and Math Word Problem."** In *Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing.*
 
 	@article{li2020graph,
 	  title={Graph-to-Tree Neural Networks for Learning Structured Input-Output Translation with Applications to Semantic Parsing and Math Word Problem},
