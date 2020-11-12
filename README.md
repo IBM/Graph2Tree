@@ -1,7 +1,7 @@
 # Graph2Tree
 
 Graph2Tree aims to automatically learn the mapping between structured input like graphs and output like trees. 
-This example code is for our EMNLP'20 paper "Graph-to-Tree Neural Networksfor Learning Structured Input-Output Translationwith Applications to Semantic Parsing and Math Word Problem". You can access our paper via this link: https://arxiv.org/abs/2004.13781. 
+This example code is for our EMNLP'20 paper "Graph-to-Tree Neural Networks for Learning Structured Input-Output Translation with Applications to Semantic Parsing and Math Word Problem". You can access our paper via this link: https://arxiv.org/abs/2004.13781. 
 
 This model can effectively solve two problems: Semantic Parsing  (SP) and Math Word Problem automatically solving (MWP). Actually, they both deal with the translation problem from original word sequence inputs (which can be augmented to be a syntactic graph) to tree outputs (the logic forms in SP and mathmatical expression in MWP are both hierarchical). 
 
